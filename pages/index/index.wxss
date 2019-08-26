@@ -1,0 +1,9 @@
+/**index.wxss**/
+
+.text {
+  text-align: center;
+  margin-top: 85px;
+  font-size: 18px;
+  color: #ef6729;
+  font-weight: bold;
+}

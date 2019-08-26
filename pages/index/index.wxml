@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<image class='text' style="width: 100%; height: 200px;" mode='aspectFit' src="/image/loading.gif"></image>
+<view class='text'>
+  <text decode='true'>{{text}}加载中</text>
+</view>
